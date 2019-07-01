@@ -5,11 +5,11 @@
 ### Feedback
 
 1. How do you like feedback - the medium (Slack, email, in-person, etc.)
-> Personally, I like feedback in-person. I'm also open to having tricky conversations over Slack, but when I say I want to take it offline, I ask that you respect that.
+> It depends. Long forum feed back in person. Quick feedback over slack is pretty great as well since we might not be in the same vicinity all the time.
 2. How do you like feedback - routine like in 1:1s, or as-it-happens
-> Timely feedback is always better for me -- just grab me!
+> As it happens might be ok but I fell like I won't remember to ask for it when I do need it. So I don't know.
 3. How do you prefer to receive recognition? (public or private)
-> I'm totally fine with public recognition but don't expect it!
+> I'm fine with either. It's appreciated but not needed.
 
 ### Goals and Support
 
@@ -23,11 +23,11 @@
   - AWS transcript app working by next debate. Add to and keep maintaining hopefully as well. (this probably requires talking to Annie and with the people who want this made.
   - Help out with the call list tools.
 3. What do you need from your manager?
-> I need help solving problems. I don't need help tracking against goals -- I just want clear expectations so I know where I stand and I want help solving specific problems that I come to you with. I will often start a conversation with "Here's what I'm looking for...".
+> I actually need more help prioritizing than problem solving. Most of the time. Though I often like to talk out solving problems and scoping things out so it depends. But priorities are often an issue for me. I tend to go down rabbit holes when I don't need to sometimes.
 4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
-> I need clear communication (both up and down) -- tell me when you're struggling. Tell me when a deadline is slipping. Tell me when you need more support. And tell me when to back off.
+> ___
 5. From your peers? (outside the team)
-> I expect clear and timely feedback -- if you disagree with my approach, or an action I took, tell me as soon as possible!
+> Quick and timely. Usually its about something they need me to do and sooner is better than later.
 
 ### Expectations of folks who report to me
 
