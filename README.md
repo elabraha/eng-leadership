@@ -14,9 +14,14 @@
 ### Goals and Support
 
 1. What makes 1:1s the most valuable for you?
-> 1:1s are a time for me to voice what I'm worried about.
+> Talk about things I want to change or am having a difficult time with. Or things I want to see more of or projects I would really like to take on.
 2. What are your goals for this year? And for the next three months?
-> Build a cross-functional team of engineering and product leaders to support the goals of our campaign. Support the growth of those who report to me by pushing them out of their comfort zone and into new areas. At least 1 stretch project each quarter.
+> - Understand and add syncs to api sync code. 
+  - Understand all of them.
+  - Have testing down. Both civis and postgres directly to redhift.
+  - be able to use civis python sdk rather than the civis ui. (sharing credentials is a must!)
+  - AWS transcript app working by next debate. Add to and keep maintaining hopefully as well. (this probably requires talking to Annie and with the people who want this made.
+  - Help out with the call list tools.
 3. What do you need from your manager?
 > I need help solving problems. I don't need help tracking against goals -- I just want clear expectations so I know where I stand and I want help solving specific problems that I come to you with. I will often start a conversation with "Here's what I'm looking for...".
 4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
