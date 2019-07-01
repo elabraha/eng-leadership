@@ -17,11 +17,11 @@
 > Talk about things I want to change or am having a difficult time with. Or things I want to see more of or projects I would really like to take on.
 2. What are your goals for this year? And for the next three months?
 > - Understand and add syncs to api sync code. 
-  - Understand all of them.
-  - Have testing down. Both civis and postgres directly to redhift.
-  - be able to use civis python sdk rather than the civis ui. (sharing credentials is a must!)
-  - AWS transcript app working by next debate. Add to and keep maintaining hopefully as well. (this probably requires talking to Annie and with the people who want this made.
-  - Help out with the call list tools.
+> - Understand all of them.
+> - Have testing down. Both civis and postgres directly to redhift.
+> - be able to use civis python sdk rather than the civis ui. (sharing credentials is a must!)
+> - AWS transcript app working by next debate. Add to and keep maintaining hopefully as well. (this probably requires talking to Annie and with the people who want this made.
+> - Help out with the call list tools.
 3. What do you need from your manager?
 > I actually need more help prioritizing than problem solving. Most of the time. Though I often like to talk out solving problems and scoping things out so it depends. But priorities are often an issue for me. I tend to go down rabbit holes when I don't need to sometimes.
 4. From your team? (this one is good if the 1:1 is with someone who manages people, but is typically relevant for IC’s, too)
